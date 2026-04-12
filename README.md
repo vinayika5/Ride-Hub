@@ -36,6 +36,27 @@ This project presents an interactive Power BI dashboard analyzing customer behav
 - Screenshots
 
 ---
+## 🤝 Collaboration & Freelance
 
-## 🙌 About Me
-Aspiring Data Analyst passionate about turning data into actionable insights.
+If you need a **custom analytics portal, or any data solution** built for your business — let’s connect!
+
+* 💼 LinkedIn: https://www.linkedin.com/in/chandni-bhardwaj-713305265/
+* 📧 Email: vinayika5@gmail.com
+
+---
+
+## 👩‍💻 Developed By
+
+**Chandni Bhardwaj** — Data Analyst
+*Empowering decisions through data.*
+
+---
+## 📬 Feedback
+
+If you found this project useful or have suggestions, feel free to contribute or connect!
+
+## ⭐ Support
+
+If you found this project useful, consider **giving it a star ⭐** on GitHub!
+
+---
